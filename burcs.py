@@ -84,7 +84,7 @@ signs = splitsigns(article)
 
 
 
-updater = Updater(token="632758802:AAFB7ykwVhQ1hZRgMuMmBysQVaiIIKiePSk")
+updater = Updater(token="1696190462:AAGBWirzZ7PaPpcNitUadfW5MKCZdhUf9tM")
 dispatcher = updater.dispatcher
 
 
